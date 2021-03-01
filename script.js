@@ -1,3 +1,6 @@
+var nama = prompt("Siapa nama kamu?", "");
+alert("Hai "+nama+"! Terimakasih telah berkunjung!")
+
 ! function () {
         "use strict";
 
