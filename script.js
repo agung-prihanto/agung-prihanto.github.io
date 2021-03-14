@@ -1,5 +1,5 @@
 var nama = prompt("Hello, what is your name?", "");
-alert("Hi +nama+! Have fun!");
+alert("Hi "+nama+"! Have fun!");
 
 
 
