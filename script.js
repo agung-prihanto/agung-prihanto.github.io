@@ -1,5 +1,5 @@
-var nama = prompt("Siapa nama kamu?", "");
-alert("Hai "+nama+"! Terimakasih telah berkunjung!");
+var nama = prompt("Hello, what is your name?", "");
+alert("Hi +nama+!");
 
 
 
